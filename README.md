@@ -1,7 +1,7 @@
 ## 🌊🌊 Hello World 🌊🌊
 
-- My personal website is 📍 [here](https://eilleeenz.com/)
-- **Likes:** Binggrae Melona honeydew ice cream 🍦 bars, the color green 🟢, surfing 🏄‍♀️ the internet
+- My personal website is 📍 [here](https://eilleeenz.com/)!
+- **Likes:** Binggrae Melona honeydew ice cream bars 🍦, the color green 🟢, surfing the internet 🏄‍♀️
 - **Dislikes:** humidity ☔, being perceived... 🧐, bugs/debugging 🐛
 
 <!--
